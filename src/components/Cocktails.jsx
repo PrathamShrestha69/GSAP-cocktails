@@ -51,7 +51,7 @@ const Cocktails = () => {
             ))}
           </ul>
         </div>
-        <div className="loved px-3">
+        <div className="loved px-3 hidden lg:block">
           <h2>Most Loved mocktails:</h2>
           <ul>
             {cocktailLists.map(({ name, country, detail, price }) => (
