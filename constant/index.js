@@ -1,6 +1,6 @@
 const navLinks = [
   {
-    id: "cocktails",
+    id: "menu",
     title: "Cocktails",
   },
   {
@@ -8,7 +8,7 @@ const navLinks = [
     title: "About Us",
   },
   {
-    id: "work",
+    id: "art",
     title: "The Art",
   },
   {
